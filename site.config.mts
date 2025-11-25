@@ -8,14 +8,14 @@ export interface SocialLink {
 }
 
 export default {
-	title: 'SR',
+	title: 'MP',
 	favicon: 'favicon.ico',
-	owner: 'Sara Richard',
+	owner: 'Marcelo Perez',
 	profileImage: 'profile.webp',
 	socialLinks: [
 		{
 			name: 'GitHub',
-			url: 'https://github.com/rockem/astro-photography-portfolio',
+			url: 'https://github.com/marcelop/portfolio-astro',
 			icon: Github,
 		} as SocialLink,
 		{
