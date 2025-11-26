@@ -46,7 +46,7 @@ images:
   - path: nature/L1002174.jpg
     meta:
       title: Travel scene 6
-      description: null
+      description: Description test on a large image
       collections:
         - featured
         - nature
