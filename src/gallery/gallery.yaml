@@ -6,21 +6,21 @@ collections:
   - id: street
     name: Street
 images:
-  - path: prints/image001.jpg
-    meta:
-      title: Image 1
-      description: ''
-      collections:
-        - street
-    exif: {}
+#  - path: prints/image001.jpg
+#    meta:
+#      title: Image 1
+#      description: ''
+#      collections:
+#        - street
+#    exif: {}
 
-  - path: prints/image002.jpg
-    meta:
-      title: Image 2
-      description: ''
-      collections:
-        - nature
-    exif: {}
+#  - path: prints/image002.jpg
+#    meta:
+#      title: Image 2
+#      description: ''
+#      collections:
+#        - nature
+#    exif: {}
 
   - path: prints/image003.jpg
     meta:
@@ -83,6 +83,7 @@ images:
       title: Image 10
       description: ''
       collections:
+        - featured
         - nature
     exif: {}
 
@@ -123,6 +124,7 @@ images:
       title: Image 15
       description: ''
       collections:
+        - featured
         - nature
     exif: {}
 
@@ -155,6 +157,7 @@ images:
       title: Image 19
       description: ''
       collections:
+        - featured
         - street
     exif: {}
 
@@ -206,13 +209,13 @@ images:
         - travel
     exif: {}
 
-  - path: prints/image026.jpg
-    meta:
-      title: Image 26
-      description: ''
-      collections:
-        - nature
-    exif: {}
+#  - path: prints/image026.jpg
+#    meta:
+#      title: Image 26
+#      description: ''
+#      collections:
+#        - nature
+#    exif: {}
 
   - path: prints/image027.jpg
     meta:
@@ -315,6 +318,7 @@ images:
       title: Image 39
       description: ''
       collections:
+        - featured
         - travel
     exif: {}
 
@@ -421,7 +425,7 @@ images:
       description: ''
       collections:
         - featured
-        - nature
+        - street
     exif: {}
 
   - path: prints/image053.jpg
