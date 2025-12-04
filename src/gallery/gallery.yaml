@@ -6,85 +6,545 @@ collections:
   - id: street
     name: Street
 images:
-  - path: nature/nature-2.jpg
+  - path: prints/image001.jpg
     meta:
-      title: Nature scene 2
-      description: Serene natural landscape capturing the essence of wilderness.
+      title: Image 1
+      description: ''
       collections:
-        - nature
-    exif: {}
-  - path: nature/nature-3.jpg
-    meta:
-      title: Nature scene 3
-      description: Breathtaking natural vista showcasing environmental beauty.
-      collections:
-        - featured
-        - nature
-    exif: {}
-  - path: nature/nature-5.jpg
-    meta:
-      title: Nature scene 5
-      description: Natural landscape showing the raw beauty of the environment.
-      collections:
-        - nature
-    exif: {}
-  - path: nature/nature-7.jpg
-    meta:
-      title: Nature scene 7
-      description: Stunning natural landscape capturing environmental beauty.
-      collections:
-        - featured
-        - nature
-    exif: {}
-  - path: nature/nature-8.jpg
-    meta:
-      title: Nature scene 8
-      description: Beautiful natural vista showcasing environmental wonder.
-      collections:
-        - nature
-    exif: {}
-  - path: nature/L1002174.jpg
-    meta:
-      title: Travel scene 6
-      description: Description test on a large image
-      collections:
-        - featured
-        - nature
-    exif:
-      captureDate: 2025-03-27T10:35:21.000Z
-      fNumber: 8
-      focalLength: 28
-      iso: 100
-      model: LEICA Q3
-      shutterSpeed: 1250
-      lensModel: SUMMILUX 1:1.7/28 ASPH.
-  - path: nature/nature-10.jpg
-    meta:
-      title: Nature scene 10
-      description: Majestic natural landscape displaying environmental splendor.
-      collections:
-        - nature
-    exif: {}
-  - path: street/stree-1.jpg
-    meta:
-      title: Street photography 1
-      description: Urban scene capturing the essence of city life.
-      collections:
-        - featured
         - street
     exif: {}
-  - path: travel/travel-1.jpg
+
+  - path: prints/image002.jpg
     meta:
-      title: Travel scene 1
-      description: Journey through remarkable destinations.
-      collections:
-        - featured
-        - travel
-    exif: {}
-  - path: nature/nature-1.jpg
-    meta:
-      title: Nature 1
+      title: Image 2
       description: ''
       collections:
         - nature
+    exif: {}
+
+  - path: prints/image003.jpg
+    meta:
+      title: Image 3
+      description: ''
+      collections:
+        - travel
+    exif: {}
+
+  - path: prints/image004.jpg
+    meta:
+      title: Image 4
+      description: ''
+      collections:
+        - travel
+    exif: {}
+
+  - path: prints/image005.jpg
+    meta:
+      title: Image 5
+      description: ''
+      collections:
+        - travel
+    exif: {}
+
+  - path: prints/image006.jpg
+    meta:
+      title: Image 6
+      description: ''
+      collections:
+        - nature
+    exif: {}
+
+  - path: prints/image007.jpg
+    meta:
+      title: Image 7
+      description: ''
+      collections:
+        - street
+    exif: {}
+
+  - path: prints/image008.jpg
+    meta:
+      title: Image 8
+      description: ''
+      collections:
+        - street
+    exif: {}
+
+  - path: prints/image009.jpg
+    meta:
+      title: Image 9
+      description: ''
+      collections:
+        - travel
+    exif: {}
+
+  - path: prints/image010.jpg
+    meta:
+      title: Image 10
+      description: ''
+      collections:
+        - nature
+    exif: {}
+
+  - path: prints/image011.jpg
+    meta:
+      title: Image 11
+      description: ''
+      collections:
+        - travel
+    exif: {}
+
+  - path: prints/image012.jpg
+    meta:
+      title: Image 12
+      description: ''
+      collections:
+        - travel
+    exif: {}
+
+  - path: prints/image013.jpg
+    meta:
+      title: Image 13
+      description: ''
+      collections:
+        - street
+    exif: {}
+
+  - path: prints/image014.jpg
+    meta:
+      title: Image 14
+      description: ''
+      collections:
+        - nature
+    exif: {}
+
+  - path: prints/image015.jpg
+    meta:
+      title: Image 15
+      description: ''
+      collections:
+        - nature
+    exif: {}
+
+  - path: prints/image016.jpg
+    meta:
+      title: Image 16
+      description: ''
+      collections:
+        - travel
+    exif: {}
+
+  - path: prints/image017.jpg
+    meta:
+      title: Image 17
+      description: ''
+      collections:
+        - travel
+    exif: {}
+
+#  - path: prints/image018.jpg
+#    meta:
+#      title: Image 18
+#      description: ''
+#      collections:
+#        - nature
+#    exif: {}
+
+  - path: prints/image019.jpg
+    meta:
+      title: Image 19
+      description: ''
+      collections:
+        - street
+    exif: {}
+
+  - path: prints/image020.jpg
+    meta:
+      title: Image 20
+      description: ''
+      collections:
+        - street
+    exif: {}
+
+  - path: prints/image021.jpg
+    meta:
+      title: Image 21
+      description: ''
+      collections:
+        - travel
+    exif: {}
+
+  - path: prints/image022.jpg
+    meta:
+      title: Image 22
+      description: ''
+      collections:
+        - street
+    exif: {}
+
+  - path: prints/image023.jpg
+    meta:
+      title: Image 23
+      description: ''
+      collections:
+        - nature
+    exif: {}
+
+  - path: prints/image024.jpg
+    meta:
+      title: Image 24
+      description: ''
+      collections:
+        - featured
+    exif: {}
+
+  - path: prints/image025.jpg
+    meta:
+      title: Image 25
+      description: ''
+      collections:
+        - travel
+    exif: {}
+
+  - path: prints/image026.jpg
+    meta:
+      title: Image 26
+      description: ''
+      collections:
+        - nature
+    exif: {}
+
+  - path: prints/image027.jpg
+    meta:
+      title: Image 27
+      description: ''
+      collections:
+        - travel
+    exif: {}
+
+  - path: prints/image028.jpg
+    meta:
+      title: Image 28
+      description: ''
+      collections:
+        - travel
+    exif: {}
+
+  - path: prints/image029.jpg
+    meta:
+      title: Image 29
+      description: ''
+      collections:
+        - nature
+    exif: {}
+
+#  - path: prints/image030.jpg
+#    meta:
+#      title: Image 30
+#      description: ''
+#      collections:
+#        - nature
+#    exif: {}
+
+  - path: prints/image031.jpg
+    meta:
+      title: Image 31
+      description: ''
+      collections:
+        - nature
+    exif: {}
+
+  - path: prints/image032.jpg
+    meta:
+      title: Image 32
+      description: ''
+      collections:
+        - nature
+    exif: {}
+
+  - path: prints/image033.jpg
+    meta:
+      title: Image 33
+      description: ''
+      collections:
+        - travel
+    exif: {}
+
+  - path: prints/image034.jpg
+    meta:
+      title: Image 34
+      description: ''
+      collections:
+        - travel
+    exif: {}
+
+  - path: prints/image035.jpg
+    meta:
+      title: Image 35
+      description: ''
+      collections:
+        - nature
+    exif: {}
+
+  - path: prints/image036.jpg
+    meta:
+      title: Image 36
+      description: ''
+      collections:
+        - street
+    exif: {}
+
+  - path: prints/image037.jpg
+    meta:
+      title: Image 37
+      description: ''
+      collections:
+        - street
+    exif: {}
+
+  - path: prints/image038.jpg
+    meta:
+      title: Image 38
+      description: ''
+      collections:
+        - travel
+    exif: {}
+
+  - path: prints/image039.jpg
+    meta:
+      title: Image 39
+      description: ''
+      collections:
+        - travel
+    exif: {}
+
+  - path: prints/image040.jpg
+    meta:
+      title: Image 40
+      description: ''
+      collections:
+        - street
+    exif: {}
+
+  - path: prints/image041.jpg
+    meta:
+      title: Image 41
+      description: ''
+      collections:
+        - nature
+    exif: {}
+
+  - path: prints/image042.jpg
+    meta:
+      title: Image 42
+      description: ''
+      collections:
+        - travel
+    exif: {}
+
+  - path: prints/image043.jpg
+    meta:
+      title: Image 43
+      description: ''
+      collections:
+        - travel
+    exif: {}
+
+#  - path: prints/image044.jpg
+#    meta:
+#      title: Image 44
+#      description: ''
+#      collections:
+#        - nature
+#    exif: {}
+
+  - path: prints/image045.jpg
+    meta:
+      title: Image 45
+      description: ''
+      collections:
+        - travel
+    exif: {}
+
+  - path: prints/image046.jpg
+    meta:
+      title: Image 46
+      description: ''
+      collections:
+        - street
+        - featured
+    exif: {}
+
+#  - path: prints/image047.jpg
+#    meta:
+#      title: Image 47
+#      description: ''
+#      collections:
+#        - nature
+#    exif: {}
+
+  - path: prints/image048.jpg
+    meta:
+      title: Image 48
+      description: ''
+      collections:
+        - street
+    exif: {}
+
+  - path: prints/image049.jpg
+    meta:
+      title: Image 49
+      description: ''
+      collections:
+        - street
+    exif: {}
+
+  - path: prints/image050.jpg
+    meta:
+      title: Image 50
+      description: ''
+      collections:
+        - street
+    exif: {}
+
+  - path: prints/image051.jpg
+    meta:
+      title: Image 51
+      description: ''
+      collections:
+        - featured
+    exif: {}
+
+  - path: prints/image052.jpg
+    meta:
+      title: Image 52
+      description: ''
+      collections:
+        - nature
+        - featured
+    exif: {}
+
+  - path: prints/image053.jpg
+    meta:
+      title: Image 53
+      description: ''
+      collections:
+        - nature
+        - featured
+    exif: {}
+
+#  - path: prints/image054.jpg
+#    meta:
+#      title: Image 54
+#      description: ''
+#      collections:
+#        - nature
+#    exif: {}
+
+  - path: prints/image055.jpg
+    meta:
+      title: Image 55
+      description: ''
+      collections:
+        - street
+        - featured
+    exif: {}
+
+  - path: prints/image056.jpg
+    meta:
+      title: Image 56
+      description: ''
+      collections:
+        - travel
+    exif: {}
+
+  - path: prints/image057.jpg
+    meta:
+      title: Image 57
+      description: ''
+      collections:
+        - travel
+        - featured
+    exif: {}
+
+  - path: prints/image058.jpg
+    meta:
+      title: Image 58
+      description: ''
+      collections:
+        - street
+        - featured
+    exif: {}
+
+  - path: prints/image059.jpg
+    meta:
+      title: Image 59
+      description: ''
+      collections:
+        - street
+    exif: {}
+
+  - path: prints/image060.jpg
+    meta:
+      title: Image 60
+      description: ''
+      collections:
+        - street
+        - featured
+    exif: {}
+
+#  - path: prints/image061.jpg
+#    meta:
+#      title: Image 61
+#      description: ''
+#      collections:
+#        - nature
+#    exif: {}
+
+  - path: prints/image062.jpg
+    meta:
+      title: Image 62
+      description: ''
+      collections:
+        - travel
+    exif: {}
+
+  - path: prints/image063.jpg
+    meta:
+      title: Image 63
+      description: ''
+      collections:
+        - travel
+    exif: {}
+
+  - path: prints/image064.jpg
+    meta:
+      title: Image 64
+      description: ''
+      collections:
+        - travel
+    exif: {}
+
+  - path: prints/image065.jpg
+    meta:
+      title: Image 65
+      description: ''
+      collections:
+        - nature
+    exif: {}
+
+  - path: prints/image066.jpg
+    meta:
+      title: Image 66
+      description: ''
+      collections:
+        - nature
+    exif: {}
+
+  - path: prints/image067.jpg
+    meta:
+      title: Image 67
+      description: ''
+      collections:
+        - travel
     exif: {}
