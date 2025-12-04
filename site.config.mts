@@ -11,16 +11,16 @@ export default {
 	title: 'MP',
 	favicon: 'favicon.ico',
 	owner: 'Marcelo Perez',
-	profileImage: 'profile.webp',
+	profileImage: 'profile2.jpg',
 	socialLinks: [
 		{
 			name: 'GitHub',
-			url: 'https://github.com/marcelop/portfolio-astro',
+			url: 'https://github.com/marcelop/portfolio',
 			icon: Github,
 		} as SocialLink,
 		{
 			name: 'Instagram',
-			url: 'https://www.instagram.com',
+			url: 'https://www.instagram.com/marcelo_mtl/',
 			icon: Instagram,
 		} as SocialLink,
 	],
