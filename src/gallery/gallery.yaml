@@ -371,8 +371,8 @@ images:
       title: Image 46
       description: ''
       collections:
-        - street
         - featured
+        - street
     exif: {}
 
 #  - path: prints/image047.jpg
@@ -420,8 +420,8 @@ images:
       title: Image 52
       description: ''
       collections:
-        - nature
         - featured
+        - nature
     exif: {}
 
   - path: prints/image053.jpg
@@ -429,8 +429,8 @@ images:
       title: Image 53
       description: ''
       collections:
-        - nature
         - featured
+        - nature
     exif: {}
 
 #  - path: prints/image054.jpg
@@ -446,8 +446,8 @@ images:
       title: Image 55
       description: ''
       collections:
-        - street
         - featured
+        - street
     exif: {}
 
   - path: prints/image056.jpg
@@ -463,8 +463,8 @@ images:
       title: Image 57
       description: ''
       collections:
-        - travel
         - featured
+        - travel
     exif: {}
 
   - path: prints/image058.jpg
@@ -472,8 +472,8 @@ images:
       title: Image 58
       description: ''
       collections:
-        - street
         - featured
+        - street
     exif: {}
 
   - path: prints/image059.jpg
@@ -489,8 +489,8 @@ images:
       title: Image 60
       description: ''
       collections:
-        - street
         - featured
+        - street
     exif: {}
 
 #  - path: prints/image061.jpg
